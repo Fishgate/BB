@@ -21,16 +21,14 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         
-        <div class="logo">
-            <img src="img/frutea_logo.png" />
-        </div>
+        <?php include 'includes/logo.php' ?>
         
         <div id="wrapper" class="clearfix">
             <!-- ////////////////////// NAV \\\\\\\\\\\\\\\\\\\-->
             <nav class="nav">
                 <ul class="clearfix toresponsive">
-                    <li><a href="www.google.com">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="www.google.com">what is <br /><b>rooibos fruitea?</b></a></li>
+                    <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>rooibos fruitea</b></a></li>
                     <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
                     <li class="menu-mid"><a href="www.google.com">get intouch <br /><b>with us</b></a></li>
                 </ul>
@@ -44,40 +42,53 @@
                 <img src="http://placehold.it/940x323">
             </div>
             <!-- ////////////////////// 3 SECTIONS \\\\\\\\\\\\\\\\\\\-->
-            <div class="sections3 left">
+            <div class="sections3 left clearfix">
                 <span class="h1">win a</span>
                 <div class="h2">vintage<br />bicycle</div>
-                <img class="response" src="img/image_bike_small.png" alt="vintage bicycle" />
+                <div class="feature">
+                    <img class="response" src="img/image_bike_small.png" alt="vintage bicycle" />
+                </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
                 <a class="enter" href="#">
-                    <img src="img/enter.jpg" alt="Enter Now" />
+                    <img class="btn_desktop" src="img/enter.jpg" alt="Enter Now" />
+                </a>
+                <a href="#" class="btn_mobi">
+                    enter now
                 </a>
             </div>
             <!--  -->
-            <div class="sections3 mid left">
+            <div class="sections3 mid left clearfix">
                 <span class="h1">what is</span>
                 <div class="h2">rooibos<br />fruitea</div>
-                <img class="response" src="img/image_bottles_small.png" alt="vintage bicycle" />
+                <div class="feature">
+                    <img class="response" src="img/image_bottles_small.png" alt="vintage bicycle" />
+                </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
                 <a class="enter" href="#">
-                    <img src="img/readmore.jpg" alt="read more" />
+                    <img class="btn_desktop" src="img/readmore.jpg" alt="read more" />
+                </a>
+                <a href="#" class="btn_mobi">
+                    Read More
                 </a>
             </div>
             <!--  -->
-            <div class="sections3 left">
+            <div class="sections3 left clearfix">
                 <span class="h1">more about</span>
                 <div class="h2">brothers<br />beverages</div>
-                <img class="response" src="img/image_bb_small.png" alt="vintage bicycle" />
+                <div class="feature">
+                    <img class="response" src="img/image_bb_small.png" alt="vintage bicycle" />
+                </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
                 <a class="enter" href="#">
-                    <img src="img/readmore.jpg" alt="read more" />
+                    <img class="btn_desktop" src="img/readmore.jpg" alt="read more" />
+                </a>
+                <a href="#" class="btn_mobi">
+                    Read More
                 </a>
             </div>
         </div>
         
-        <footer>
-            <img src="img/bb_logo.png" alt="brothers beverages" />
-        </footer>
+        <?php include 'includes/footer.php' ?>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>

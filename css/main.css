@@ -127,10 +127,25 @@ body{
 p{
     font-size: 10px;
 }
+a{
+    text-decoration: none;
+}
+.reg{
+    font-family: 'regular', sans-serif;
+}
+.bol{
+    font-family: 'bold', sans-serif;
+}
+h1{
+    font-size: 18px;
+}
+h2{
+    font-size: 14px;
+}
 /*------------------- LOGO ------------*/
 .logo{
-    width: 80%;
-    max-width: 940px;
+    width: 100%;
+    background: #000;
     margin: 0 auto;
     padding: 15px 0 30px 0;
     text-align: center;
@@ -163,7 +178,9 @@ p{
     font-size: 10px;
     line-height: 1.2em;
 }
-
+.current-menu-item a{
+    color: #88a936!important;
+}
 b{
     font-family: 'bold', 'arial', sans-serif;
     text-transform: capitalize;
@@ -219,6 +236,10 @@ background-position: 0 -13px;
     bottom: 20px;
 }
 
+.feature_graphic{
+    border-top: 5px solid #000;
+    border-bottom: 5px solid #000;
+}
 /*---------------------------- SECTIONS3 ------------------*/
 .sections3{
     width: 31%;
@@ -262,13 +283,29 @@ background-position: 0 -13px;
     max-width: 100%;
     min-width: 100%
 }
+.btn_mobi{
+    display: none;
+}
+
+
+/*---------------------------- SECTIONS2 ------------------*/
+.sections2{
+    width: 48%;
+}
+.sections2_divider{
+    width: 4%;
+}
 
 /*---------------------------- FOOTER ------------------*/
 footer{
     background: #000;
     text-align: center;
-    padding: 60px 0;
+    padding: 30px 0;
     margin: 60px 0 0 0;
+}
+.foot_anchor{
+    text-align: center;
+    padding: 50px 0;
 }
 
 
@@ -292,6 +329,50 @@ footer{
     margin: 0;
     background: url('../img/select.png')no-repeat 220px;
 }
+
+
+/*---------------------------- FORM STUFF ------------------*/
+.formholder{
+    background: #000;
+    padding: 36px;
+    margin-top: 50px;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    font-size: 12px;
+    color: #999;
+    margin: 0 0 11px 0;
+}
+input[type="submit"]{
+    background: #88a936;
+    border: none;
+    color: #fff;
+    padding: 10px 25px;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+}
+.terms{
+    text-align: center;
+    color: #999;
+}
+.terms a{
+    color: #88a936;
+}
+
+
+/* apply a natural box layout model to all elements */
+/*-- credits to http://www.paulirish.com/2012/box-sizing-border-box-ftw/ --*/
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+ }
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -402,9 +483,35 @@ footer{
    ========================================================================== */
 
 @media only screen and (max-width: 768px) {
-    /*================= MAKE SECTIONS 100% =========*/
-    .sections3{
+    /*================= MAKE SECTIONS3 100% =========*/
+    .sections3, .sections2{
         width: 100%;
+    }
+    .sections2_divider{display: none;}
+    /*================= STRUCTURE SECTIONS3 =========*/
+    .feature{
+        width: 60%;
+        float: left;
+    }
+    .sections3 p{
+        width: 40%;
+        float: left;
+    }
+    .btn_mobi{
+        display: inline-block;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+        color: #fff;
+        background: #88a936;
+        font-family: 'regular';
+        text-transform: uppercase;
+    }
+    .btn_desktop{
+        display: none;
+    }
+    .mid{
+        margin: 0;
     }
 }
 
