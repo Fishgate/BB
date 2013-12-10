@@ -1,1 +1,2 @@
-$("#slides").slidesjs({width:940,height:323,effect:{slide:{speed:1e3}},play:{auto:!0},pagination:{active:!0},navigation:{active:!1}});
+//========== RESPONSIVE SLIDES
+$("#slides").slidesjs({width:940,height:323,effect:{slide:{speed:1e3}},play:{auto:!0},pagination:{active:!0},navigation:{active:!1}});$(".toresponsive").ReSmenu({menuClass:"responsive_menu",selectId:"resmenu",textBefore:"&Congruent;",selectOption:!1,activeClass:"current-menu-item",maxWidth:960});

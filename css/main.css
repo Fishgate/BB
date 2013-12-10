@@ -129,23 +129,31 @@ p{
 }
 /*------------------- LOGO ------------*/
 .logo{
-    width: 980px;
+    width: 80%;
+    max-width: 940px;
     margin: 0 auto;
+    padding: 15px 0 30px 0;
+    text-align: center;
+    border-bottom: 5px solid #000;
 }
 
 /*------------------- WRAPPER ------------*/
 #wrapper{
-    width: 940px;
+    width: 80%;
+    max-width: 940px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 20px 50px 20px;
+    border-bottom: 5px solid #000;
 }
 
 /*------------------- NAV ------------*/
 .nav{
-    width: 650px;
+    width: 786px;
     margin: 0 auto;
 }
-
+.nav ul{
+    padding: 0;
+}
 .nav li{
     display: inline;
     float: left;
@@ -164,7 +172,6 @@ b{
 
 .menu-mid{
     border-left: 1px solid #000;
-    border-right: 1px solid #000;
 }
 .nav a{
     color: #000;
@@ -219,21 +226,9 @@ background-position: 0 -13px;
 .sections3 p{
     text-align: center;
 }
-.btn-round{
-    background: #88a936;
-    padding: 20px;
-    width: 86px;
-    color: #fff;
-    font-family: 'regular';
-    text-transform: uppercase;
-    
-    
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -o-border-radius: 50%;
-}
+
 .bold{
-    font-family: 'regular';
+    font-family: 'bold';
     font-size: 20px;
 }
 
@@ -253,9 +248,50 @@ background-position: 0 -13px;
     padding: 5px 0 15px 0;
     line-height: 1em;
 }
+.enter{
+    display: block;
+    margin-top:  20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 92px;
+}
+.mid{
+    margin:0 3.5%;
+}
+.response{
+    max-width: 100%;
+    min-width: 100%
+}
+
+/*---------------------------- FOOTER ------------------*/
+footer{
+    background: #000;
+    text-align: center;
+    padding: 60px 0;
+    margin: 60px 0 0 0;
+}
 
 
 
+
+/*---------------------------- RESPONSIVE MENU ------------------*/
+.responsive_menu label{
+    font-size: 50px;
+    line-height: 1em;
+}
+
+#resmenu1{
+    -webkit-appearance: none;
+    -o-appearance: none;
+    
+    border: 1px solid #ccc;
+    position: relative;
+    bottom: 10px;
+    height: 30px;
+    padding: 0 10px;
+    margin: 0;
+    background: url('../img/select.png')no-repeat 220px;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -365,8 +401,11 @@ background-position: 0 -13px;
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
+@media only screen and (max-width: 768px) {
+    /*================= MAKE SECTIONS 100% =========*/
+    .sections3{
+        width: 100%;
+    }
 }
 
 @media print,

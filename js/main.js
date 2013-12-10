@@ -1,3 +1,5 @@
+
+//========== RESPONSIVE SLIDES
 $("#slides").slidesjs({
     width: 940,
     height: 323,
@@ -16,3 +18,13 @@ $("#slides").slidesjs({
         active: false
     }
 });
+
+//========== RESPONSIVE SELECT MENU
+$('.toresponsive').ReSmenu({
+    menuClass:    'responsive_menu',   // Responsive menu class
+    selectId:     'resmenu',          // select ID
+    textBefore:   '&Congruent;',               // Text to add before the mobile menu
+    selectOption: false,               // First select option
+    activeClass:  'current-menu-item', // Active menu li class
+    maxWidth:     960                  // Size to which the menu is responsive
+}); 
