@@ -1,0 +1,1 @@
+$("#slides").slidesjs({width:940,height:323,effect:{slide:{speed:1e3}},play:{auto:!0},pagination:{active:!0},navigation:{active:!1}});

@@ -96,20 +96,163 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/*------------------- @FONTFACE ------------*/
+@font-face {
+    font-family: 'regular';
+    src: url('../fonts/texgyreadventor-regular-webfont.eot');
+    src: url('../fonts/texgyreadventor-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/texgyreadventor-regular-webfont.woff') format('woff'),
+         url('../fonts/texgyreadventor-regular-webfont.ttf') format('truetype'),
+         url('../fonts/texgyreadventor-regular-webfont.svg#texgyreadventorregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url('../fonts/texgyreadventor-bold-webfont.eot');
+    src: url('../fonts/texgyreadventor-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/texgyreadventor-bold-webfont.woff') format('woff'),
+         url('../fonts/texgyreadventor-bold-webfont.ttf') format('truetype'),
+         url('../fonts/texgyreadventor-bold-webfont.svg#texgyreadventorbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*------------------- BODY ------------*/
+body{
+    border-top: 5px solid #000;
+}
+p{
+    font-size: 10px;
+}
+/*------------------- LOGO ------------*/
+.logo{
+    width: 980px;
+    margin: 0 auto;
+}
+
+/*------------------- WRAPPER ------------*/
+#wrapper{
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/*------------------- NAV ------------*/
+.nav{
+    width: 650px;
+    margin: 0 auto;
+}
+
+.nav li{
+    display: inline;
+    float: left;
+    padding: 5px 38px;
+    font-family: 'regular', 'arial', sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    line-height: 1.2em;
+}
+
+b{
+    font-family: 'bold', 'arial', sans-serif;
+    text-transform: capitalize;
+    font-size: 13px;
+}
+
+.menu-mid{
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
+.nav a{
+    color: #000;
+}
+.nav a:hover{
+    color: #88a936;
+}
 
 
 
+/*---------------------------- SLIDES JS  ------------------*/
+.slidesjs-pagination li a{
+    display: block;
+    width: 13px;
+    height: 0;
+    padding-top: 13px;
+    background-image: url(../img/pagination.png);
+    background-position: 0 0;
+    float: left;
+    display: inline;
+    overflow: hidden;
+}
+.slidesjs-pagination li a:hover{
+    background-position: 0 -26px;
+}
 
+.slidesjs-pagination li a.active, .slidesjs-pagination li a:hover.active {
+background-position: 0 -13px;
+}
+#slides{
+    position: relative;
+    border-top: 5px solid #000;
+    border-bottom: 5px solid #000;
+}
+.slidesjs-pagination{
+    list-style-type: none;
+    padding: 0;
+    /*outline: 1px solid red;*/
+    display: inline-block;
+    height: 13px;
+    width: 65px;
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    bottom: 20px;
+}
 
+/*---------------------------- SECTIONS3 ------------------*/
+.sections3{
+    width: 31%;
+}
+.sections3 p{
+    text-align: center;
+}
+.btn-round{
+    background: #88a936;
+    padding: 20px;
+    width: 86px;
+    color: #fff;
+    font-family: 'regular';
+    text-transform: uppercase;
+    
+    
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.bold{
+    font-family: 'regular';
+    font-size: 20px;
+}
 
-
-
-
-
-
-
-
-
+.h1{
+    border-bottom: 1px solid #000;
+    display: block;
+    margin: 20px 0 0 0;
+    padding: 0 0 5px 0;
+    font-family: 'regular', sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.h2{
+    text-transform: capitalize;
+    font-family: 'bold', sans-serif;
+    font-size: 20px;
+    padding: 5px 0 15px 0;
+    line-height: 1em;
+}
 
 
 
@@ -194,6 +337,8 @@ textarea {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
+.left{float: left;}
+.right{float: right;}
 
 .clearfix:before,
 .clearfix:after {
