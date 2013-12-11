@@ -1,5 +1,5 @@
 <footer>
-    <a href='#' target='_blank'>
+    <a href='http://www.facebook.com/frutea' target='_blank'>
         <img src="img/frutea_follow.png" alt="Like us on Facebook" />
     </a>
 </footer>

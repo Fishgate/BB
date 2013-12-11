@@ -35,9 +35,10 @@
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
             <!--<div id="slides">-->
-                <img class="response feature_graphic" src="http://placehold.it/940x323">
+                <img class="response feature_graphic" src="img/bb_slide_4.jpg">
             <!--</div>-->
             <!-- ////////////////////// 2 SECTIONS \\\\\\\\\\\\\\\\\\\-->
+            <p>&nbsp;</p>
             <h1><span class="reg">What is</span> <span class="bol">Rooibos Frutea</span></h1>
             
             <div class="sections2 left clearfix">

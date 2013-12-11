@@ -42,9 +42,10 @@
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
             <!--<div id="slides">-->
-                <img class="response feature_graphic" src="http://placehold.it/940x323">
+            <a href="http://www.pedalworx.co.za" target="_blank"><img class="response feature_graphic" src="img/bb_slide_6.jpg"></a>
             <!--</div>-->
             <!-- ////////////////////// 2 SECTIONS \\\\\\\\\\\\\\\\\\\-->
+            <p>&nbsp;</p>
             <div class="sections2 left clearfix">
                 <h1><span class="reg">Win a</span> <span class="bol">Vintage Bicycle worth R4000</span></h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla, justo quis molestie vulputate, magna orci fermentum libero, quis auctor magna diam sit amet turpis. Duis dapibus orci et consectetur ornare. Quisque neque lectus, ornare ut adipiscing eget, dictum ac velit. Cras tempor venenatis nibh, non aliquet tortor. Nulla sed arcu justo. Duis cursus elit sed justo rutrum, non euismod lacus malesuada. Maecenas nec nibh nibh. Nullam elementum sed tortor ac aliquam. Sed non sapien vel magna tincidunt porttitor vel eget augue.</p>
@@ -60,7 +61,7 @@
                         <li>WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA<br />competition is organised by Brothers Beverages, owners of the brand Rooibos Frutea, and is open to South African and Namibian residents, except directors and employees of Brothers Beverages and their families, advertising agency staff or consultants of Brothers Beverages and the immediate family members of aforesaid persons (including, but not limited to, spouses, life partners, parents, children, brothers and sisters).</li>
                         <li>These rules may be amended by notification at any time during the Competition, and will be interpreted by Promoter only. Participation by all entrants ("Participants") constitutes acceptance of these rules.</li>
                         <li>WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA competition commences on 1 December 2013 and closes on 4 May 2014.</li>
-                        <li>To qualify for the prize the consumer must enter the competition on <a href="http://www.rooibosfrutea.co.za" target="_blank">www.rooibosfrutea.co.za</a></li>
+                        <li>To qualify for the prize the consumer must enter the competition on <a href="http://www.frutea.co.za" target="_blank">www.frutea.co.za</a></li>
                         <li>Each cellphone number may only be entered once.</li>
                         <li>The winner will be selected from all valid entries received.</li>
                         <li>The prize draw will take place a week after the competition closes and the winner will be notified by telephone and announced on the website.</li>
@@ -73,7 +74,7 @@
                         <li>The winner will be required to sign a consent that he or she will allow Brothers Beverages or their representatives, to photograph him or her for promotional purposes related to the WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA competition without payment or additional compensation.</li>
                         <li>If in the event that the competition is terminated, whether by the DTI, or and other entity, all entrants will waive any rights which they may have against Brothers Beverages.</li>
                         <li>Winner shall be required to indemnify Brothers Beverages for any damage or loss they may suffer from winning the prize.</li>
-                        <li>These Terms and Conditions are available on the <a href="http://www.rooibosfrutea.co.za" target="_blank">www.rooibosfrutea.co.za</a> website </li>
+                        <li>These Terms and Conditions are available on the <a href="http://www.frutea.co.za" target="_blank">www.frutea.co.za</a> website </li>
                     </ol>
                     <a class="close-reveal-modal">&#215;</a>
                </div>
@@ -81,12 +82,13 @@
                     <form id='form'>
                         <input type='text' id='name' value='Name' />
                         <input type='email' id='email' value='Email' />
+                        <input type='text' id='cell' value='Cellphone Number' />
                         <input type='text' id='flavour' value='What is your favourite flavour?' />
                         <input type='text' id='where' value='Where did you buy your Rooibos Frutea?' />
                         <input type='text' id='feature' value='Name one unique feature of Rooibos Frutea' />
                         <input type='submit' id='submit_btn' value='SUBMIT' />
                     </form>
-                    <p class='terms'>Please read the <a href="#" data-reveal-id="myModal">terms and conditions</a> for this competition</p>
+                    <p class='terms'>Please read the <a href="#" data-reveal-id="myModal">Terms and Conditions</a> for this competition</p>
                     	
                 </div>
             </div>

@@ -123,9 +123,10 @@ textarea {
 /*------------------- BODY ------------*/
 body{
     border-top: 5px solid #000;
+    background-color: #FCFDF8;
 }
 p{
-    font-size: 12px;
+    font-size: 13px;
 }
 a{
     text-decoration: none;
@@ -141,7 +142,7 @@ h1{
     font-size: 18px;
 }
 h2{
-    font-size: 14px;
+    font-size: 16px;
 }
 h3{
     font-size: 13px;
@@ -168,7 +169,7 @@ h3{
 
 /*------------------- NAV ------------*/
 .nav{
-    width: 786px;
+    width: 900px;
     margin: 0 auto;
 }
 .nav ul{
@@ -180,7 +181,7 @@ h3{
     padding: 5px 38px;
     font-family: 'regular', 'arial', sans-serif;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 13px;
     line-height: 1.2em;
 }
 .current-menu-item a{
@@ -189,7 +190,7 @@ h3{
 b{
     font-family: 'bold', 'arial', sans-serif;
     text-transform: capitalize;
-    font-size: 13px;
+    font-size: 18px;
 }
 
 .menu-mid{
@@ -371,8 +372,8 @@ input[type="submit"]{
 
 /*---------------------------- CONTACT STUFF ------------------*/
 .mapholder{
-    background: #000;
-    padding: 36px;
+    background: #fff;
+    padding: 0px;
     /*margin-top: 50px;*/
     margin-top: 20px;
 }
@@ -386,10 +387,12 @@ input[type="submit"]{
 }
 .contact_emp{
     padding: 10px;
+    padding-left: 0px;
     border-bottom: 1px dashed #ccc;
 }
 .contact_emp_alt{
     padding: 10px;
+    padding-left: 0px;
      border-bottom: 1px dashed #ccc;
 }
 

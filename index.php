@@ -49,10 +49,10 @@
                     <img class="response" src="img/image_bike_small.png" alt="vintage bicycle" />
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
-                <a class="enter" href="#">
+                <a class="enter" href="win_a_vintage_bicycle.php">
                     <img class="btn_desktop" src="img/enter.jpg" alt="Enter Now" />
                 </a>
-                <a href="#" class="btn_mobi">
+                <a href="win_a_vintage_bicycle.php" class="btn_mobi">
                     enter now
                 </a>
             </div>
@@ -64,10 +64,10 @@
                     <img class="response" src="img/image_bottles_small.png" alt="vintage bicycle" />
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
-                <a class="enter" href="#">
+                <a class="enter" href="what_is_rooibos_frutea.php">
                     <img class="btn_desktop" src="img/readmore.jpg" alt="read more" />
                 </a>
-                <a href="#" class="btn_mobi">
+                <a href="what_is_rooibos_frutea.php" class="btn_mobi">
                     Read More
                 </a>
             </div>
@@ -79,10 +79,10 @@
                     <img class="response" src="img/image_bb_small.png" alt="vintage bicycle" />
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
-                <a class="enter" href="#">
+                <a class="enter" href="what_is_rooibos_frutea.php">
                     <img class="btn_desktop" src="img/readmore.jpg" alt="read more" />
                 </a>
-                <a href="#" class="btn_mobi">
+                <a href="what_is_rooibos_frutea.php" class="btn_mobi">
                     Read More
                 </a>
             </div>

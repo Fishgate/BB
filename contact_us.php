@@ -42,9 +42,10 @@
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
             <!--<div id="slides">-->
-                <img class="response feature_graphic" src="http://placehold.it/940x323">
+                <img class="response feature_graphic" src="img/bb_slide_4.jpg">
             <!--</div>-->
             <!-- ////////////////////// 2 SECTIONS \\\\\\\\\\\\\\\\\\\-->
+            <p>&nbsp;</p>
             <div class="sections2 left clearfix">
                 <h1><span class="reg">Contact</span> <span class="bol">details</span></h1>
                 <h2>General:</h2>
