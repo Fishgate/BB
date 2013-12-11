@@ -20,10 +20,12 @@
 		left: 50%;
 		margin-left: -300px;
 		width: 520px;
-		background: #eee url(../img/modal-gloss.png) no-repeat -200px -80px;
+		background: #e3e3e3 url(../img/modal-gloss.png) no-repeat -200px -80px;
 		position: absolute;
 		z-index: 101;
 		padding: 30px 40px 34px;
+                color: #2c3e50;
+                
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 		border-radius: 5px;
@@ -43,11 +45,21 @@
 		position: absolute;
 		top: 8px;
 		right: 11px;
-		color: #aaa;
+		color: #e74c3c;
 		text-shadow: 0 -1px 1px rbga(0,0,0,.6);
 		font-weight: bold;
 		cursor: pointer;
-		} 
+		}
+                
+                .reveal-modal li{
+                    font-size: 11px;
+                    padding: 0 0 5px 0;
+                }
+                
+                .reveal-modal a{
+                    color: #88a936;
+                    font-weight: bold;
+                }
 	/*
 		
 	NOTES
