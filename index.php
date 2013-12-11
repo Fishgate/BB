@@ -30,16 +30,16 @@
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
                     <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>rooibos fruitea</b></a></li>
                     <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
-                    <li class="menu-mid"><a href="www.google.com">get intouch <br /><b>with us</b></a></li>
+                    <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
                 </ul>
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
             <div id="slides">
-                <img src="http://placehold.it/940x323">
-                <img src="http://placehold.it/940x323">
-                <img src="http://placehold.it/940x323">
-                <img src="http://placehold.it/940x323">
-                <img src="http://placehold.it/940x323">
+                <img src="img/bb_slide_1.jpg">
+                <img src="img/bb_slide_2.jpg">
+                <img src="img/bb_slide_3.jpg">
+                <img src="img/bb_slide_4.jpg">
+                <img src="img/bb_slide_5.jpg">
             </div>
             <!-- ////////////////////// 3 SECTIONS \\\\\\\\\\\\\\\\\\\-->
             <div class="sections3 left clearfix">
