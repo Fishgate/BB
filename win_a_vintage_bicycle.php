@@ -55,7 +55,7 @@
             <!--  -->
             <div class="sections2 left clearfix">
                 <div id="myModal" class="reveal-modal">
-                    <h1>BROTHERS BEVERAGES – WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA</h1>
+                    <h1>BROTHERS BEVERAGES<br />WIN A SCHWINN S1 CRUISER<br />WITH ROOIBOS FRUTEA</h1>
                     <ol>
                         <li>WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA<br />competition is organised by Brothers Beverages, owners of the brand Rooibos Frutea, and is open to South African and Namibian residents, except directors and employees of Brothers Beverages and their families, advertising agency staff or consultants of Brothers Beverages and the immediate family members of aforesaid persons (including, but not limited to, spouses, life partners, parents, children, brothers and sisters).</li>
                         <li>These rules may be amended by notification at any time during the Competition, and will be interpreted by Promoter only. Participation by all entrants ("Participants") constitutes acceptance of these rules.</li>
