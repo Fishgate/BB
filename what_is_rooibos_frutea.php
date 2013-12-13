@@ -28,7 +28,7 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="current-menu-item menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Fruitea</b></a></li>
+                    <li class="current-menu-item menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Frutea</b></a></li>
                     <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
                     <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
                 </ul>
@@ -54,7 +54,7 @@
             <!--  -->
             <div class="sections2 left clearfix">
                 <p>Another major leap of faith was attending the Good Food and Wine Show in May 2009. With having only one outlet and no distribution channel, I really just wanted to test the wider public's reaction to our product. There was great interest from the public and we were approached by a few big buyers. We signed up our second client (this time an upmarket chain store) - Melissa's Food Shop.</p>
-                <h2><span class="reg">Manufacturing process of</span> <span class="bol">Rooibos Fruitea</span></h2>
+                <h2><span class="reg">Manufacturing process of</span> <span class="bol">Rooibos Frutea</span></h2>
                 <p>Everything is done manually. We have big stainless steel brewing and mixing pots. We have 4 full-time workers in the production team and they manually fill, cap and label all the bottles.</p>
                 <p>We are looking at ways/semi-automated equipment to make the production easier on the workers. With just a few extra pieces of equipment we can increase our production volumes and we are constantly trying to follow the JIT principle - to add on what we need Just In Time.</p>
                 <h2><span class="reg">Unique selling points of</span> <span class="bol green">Rooibos Fruitea</span></h2>

@@ -35,7 +35,7 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Fruitea</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Frutea</b></a></li>
                     <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
                     <li class="menu-mid current-menu-item"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
                 </ul>
