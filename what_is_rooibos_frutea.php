@@ -29,7 +29,7 @@
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
                     <li class="current-menu-item menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Frutea</b></a></li>
-                    <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
+                    <li class="menu-mid"><a href="about_brothers_beverages.php">more about <br /><b>brothers beverages</b></a></li>
                     <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
                 </ul>
             </nav>
@@ -58,11 +58,10 @@
                 <p>Everything is done manually. We have big stainless steel brewing and mixing pots. We have 4 full-time workers in the production team and they manually fill, cap and label all the bottles.</p>
                 <p>We are looking at ways/semi-automated equipment to make the production easier on the workers. With just a few extra pieces of equipment we can increase our production volumes and we are constantly trying to follow the JIT principle - to add on what we need Just In Time.</p>
                 <h2><span class="reg">Unique selling points of</span> <span class="bol green">Rooibos Fruitea</span></h2>
-                
                 <table>
                     <tr>
                         <td><span class="number">1</span></td>
-                        <td><p>We boil loose Rooibos tea leaves and this gives us a product that is naturally high in anti-oxidants and has no caffeine.</p></td>
+                        <td><p>Freshly brewed Rooibos (No tea extracts/powders are used)</p></td>
                     </tr>
                     <tr>
                         <td colspan="2">
@@ -71,7 +70,7 @@
                     </tr>
                     <tr>
                         <td><span class="number">2</span></td>
-                        <td><p>ROOIBOS FRUTEA contains NO carbon-dioxide and NO sugarcane - the sweetness and taste comes from the 100% unsweetened fruit juices and pulps.</p></td>
+                        <td><p>Caffeine free</p></td>
                     </tr>
                     <tr>
                         <td colspan="2">
@@ -80,7 +79,39 @@
                     </tr>
                     <tr>
                         <td><span class="number">3</span></td>
-                        <td><p>We all know that Rooibos has excellent qualities, but so many people do not like it because they see it as medicine. Our aim is to make Rooibos taste good.</p></td>
+                        <td><p>No Sugarcane added (unsweetened)</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span class="number">4</span></td>
+                        <td><p>Infused with herbs and spices to add to the health benefits</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span class="number">5</span></td>
+                        <td><p>Only 100% fruit concentrates/pulps are used</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span class="number">6</span></td>
+                        <td><p>Rooibos is naturally high in anti-oxidants</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
                     </tr>
                 </table>
                 

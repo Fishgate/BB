@@ -396,7 +396,7 @@ input[type="submit"]{
     margin-top: 20px;
 }
 .sections2 td{
-    vertical-align: top;
+    vertical-align: middle;
     padding: 0 10px 0 0;
 }
 
