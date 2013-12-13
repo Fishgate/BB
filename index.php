@@ -61,9 +61,9 @@
                 <span class="h1">what is</span>
                 <div class="h2">rooibos<br />frutea</div>
                 <div class="feature">
-                    <img class="response" src="img/image_bottles_small.png" alt="vintage bicycle" />
+                    <img class="response" src="img/image_bottles_small.png" alt="rooibos frutea" />
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
+                <p>A freshly brewed Rooibos tea blended with 100% unsweetened fruit juices and pulps. We actually trademarked the name FRUTEA because this explains exactly what it is - a superb blend of fruit and tea.<br/><br/></p>
                 <a class="enter" href="what_is_rooibos_frutea.php">
                     <img class="btn_desktop" src="img/readmore.jpg" alt="read more" />
                 </a>
