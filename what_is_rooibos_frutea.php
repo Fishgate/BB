@@ -48,12 +48,12 @@
                 <p>Konrad spent many hours and basically years on a business plan with a state of the art production line. His dream was too big for me - it involved millions of rands.</p>
                 <p>I was willing to give it a go starting small. So I began the venture by brewing pots of Rooibos tea in my kitchen ñ mixing it with 100% fruit concentrates and pulps. We developed a few flavours. We had a lots of tasting sessions with close friends, and did some research together with the Department of Consumer Science where they did a taste profile and compared to the ideal iced tea, we did very well. I joined the Slow Food Market every Saturday in Stellenbosch and we saw interest in our product growing slowly.</p>
                 <p>I would say we launched our flagship - ROOIBOS FRUTEA at Kamersvol Geskenke November 2008. This was a big test to see if more people than my close family and friends also loved our product. Up to this time I did it as a hobby and still had a full time job. The result was very positive and we signed up our first restaurant.</p>
+                <p>Another major leap of faith was attending the Good Food and Wine Show in May 2009. With having only one outlet and no distribution channel, I really just wanted to test the wider public's reaction to our product. There was great interest from the public and we were approached by a few big buyers. We signed up our second client (this time an upmarket chain store) - Melissa's Food Shop.</p>
             </div>
             <!--  -->
             <div class="sections2_divider left">&nbsp;</div>
             <!--  -->
             <div class="sections2 left clearfix">
-                <p>Another major leap of faith was attending the Good Food and Wine Show in May 2009. With having only one outlet and no distribution channel, I really just wanted to test the wider public's reaction to our product. There was great interest from the public and we were approached by a few big buyers. We signed up our second client (this time an upmarket chain store) - Melissa's Food Shop.</p>
                 <h2><span class="reg">Manufacturing process of</span> <span class="bol green">Rooibos Frutea</span></h2>
                 <p>Everything is done manually. We have big stainless steel brewing and mixing pots. We have 4 full-time workers in the production team and they manually fill, cap and label all the bottles.</p>
                 <p>We are looking at ways/semi-automated equipment to make the production easier on the workers. With just a few extra pieces of equipment we can increase our production volumes and we are constantly trying to follow the JIT principle - to add on what we need Just In Time.</p>
