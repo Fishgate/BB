@@ -28,7 +28,7 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>rooibos fruitea</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>rooibos frutea</b></a></li>
                     <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
                     <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
                 </ul>
@@ -59,7 +59,7 @@
             <!--  -->
             <div class="sections3 mid left clearfix">
                 <span class="h1">what is</span>
-                <div class="h2">rooibos<br />fruitea</div>
+                <div class="h2">rooibos<br />frutea</div>
                 <div class="feature">
                     <img class="response" src="img/image_bottles_small.png" alt="vintage bicycle" />
                 </div>
