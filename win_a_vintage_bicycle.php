@@ -48,8 +48,10 @@
             <p>&nbsp;</p>
             <div class="sections2 left clearfix">
                 <h1><span class="reg">Win a</span> <span class="bol">Vintage Bicycle worth R4000</span></h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla, justo quis molestie vulputate, magna orci fermentum libero, quis auctor magna diam sit amet turpis. Duis dapibus orci et consectetur ornare. Quisque neque lectus, ornare ut adipiscing eget, dictum ac velit. Cras tempor venenatis nibh, non aliquet tortor. Nulla sed arcu justo. Duis cursus elit sed justo rutrum, non euismod lacus malesuada. Maecenas nec nibh nibh. Nullam elementum sed tortor ac aliquam. Sed non sapien vel magna tincidunt porttitor vel eget augue.</p>
-                <p>Vestibulum ut urna eleifend, gravida diam vel, viverra nisi. Nulla facilisi. Nullam pretium viverra accumsan. Etiam lobortis nisi a erat tempus tempor. Nam eu sapien ut lacus faucibus tincidunt. In luctus felis nulla, et tempus arcu mattis quis. Ut erat eros, rhoncus et ipsum mattis, venenatis porta est. Quisque et eleifend justo. Vivamus tempor orci sapien, ac mollis enim eleifend ac. Sed pulvinar sem felis, eu volutpat lorem congue eu. Sed molestie urna libero, ac vehicula purus malesuada id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus nec urna convallis, placerat sapien id, tempus mauris. Maecenas malesuada, lacus quis imperdiet elementum, erat mauris pretium nibh, eu lacinia sapien urna quis nibh.</p>
+                <p>Enter now for a chance to win by simply completing the fields in the form located to the right. And remember to tell your friends so they can enter too.</p>
+                <h2><span class="reg">Why a</span> <span class="bol green">Vintage Bicycle</span></h2>
+                <p>Like the delicious, authentic Rooibos Frutea we produce, bicycles also promote healthy living with a sense of fun. Add to that some vintage flair, and you have an amazing prize valued at R4000 that exudes memories of the quality and goodness of yesteryear’s products – just like Rooibos Frutea does. In our minds, it’s the perfect prize to associate with our 100% Fruity product.</p>
+                <p>Thank you to Pedalworx for co-sponsoring the vintage bicycle for this competition. Together we will be giving one Rooibos Frutea drinker hours of riding pleasure.</p>
             </div>
             <!--  -->
             <div class="sections2_divider left">&nbsp;</div>

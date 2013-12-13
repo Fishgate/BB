@@ -92,7 +92,7 @@
                     <p>
                         <span class="bol">Tel:</span> 021 851 0771<br />
                         <span class="bol">Cell:</span> 082 467 5933<br />
-                        <span class="bol">Email:</span> <a href="mailto:konrad@brothersbeverages.co.za">marinda@brothersbeverages.co.za</a>
+                        <span class="bol">Email:</span> <a href="mailto:konrad@brothersbeverages.co.za">konrad@brothersbeverages.co.za</a>
                     </p>
                 </div>
                 
@@ -101,7 +101,7 @@
                     <p>
                         <span class="bol">Tel:</span> 021 851 0771<br />
                         <span class="bol">Cell:</span> 076 865 2988<br />
-                        <span class="bol">Email:</span> <a href="mailto:konrad@brothersbeverages.co.za">konrad@brothersbeverages.co.za</a>
+                        <span class="bol">Email:</span> <a href="mailto:manager@brothersbeverages.co.za">manager@brothersbeverages.co.za</a>
                     </p>
                 </div>
             </div>
