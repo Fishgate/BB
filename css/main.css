@@ -169,7 +169,7 @@ h3{
 
 /*------------------- NAV ------------*/
 .nav{
-    width: 900px;
+    width: 100%;
     margin: 0 auto;
 }
 .nav ul{
@@ -300,6 +300,24 @@ background-position: 0 -13px;
 }
 .sections2_divider{
     width: 4%;
+}
+.number{
+    background: #88a936;
+    color: #fff;
+    font-family: 'bold', sans-serif;
+    font-size: 18px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: block;
+    padding-top: 12px;
+    
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.green{
+    color: #88a936;
 }
 
 /*---------------------------- FOOTER ------------------*/
@@ -546,6 +564,23 @@ input[type="submit"]{
     }
     .mid{
         margin: 0;
+    }
+    .slidesjs-pagination{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .feature{
+        width: 100%;
+        float: left;
+    }
+    .sections3 p{
+        width: 100%;
+        float: left;
+    }
+    .slidesjs-pagination{
+        display: none;
     }
 }
 
