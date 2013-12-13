@@ -82,7 +82,7 @@
                     <form id='form'>
                         <input type='text' id='name' value='Name' />
                         <input type='email' id='email' value='Email' />
-                        <input type='text' id='cell' value='Cellphone Number' />
+                        <input type='tel' id='cell' value='Cellphone Number' />
                         <input type='text' id='flavour' value='What is your favourite flavour?' />
                         <input type='text' id='where' value='Where did you buy your Rooibos Frutea?' />
                         <input type='text' id='feature' value='Name one unique feature of Rooibos Frutea' />
