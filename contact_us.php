@@ -51,7 +51,7 @@
                 <h2>General:</h2>
                 <table>
                     <tr>
-                        <td>
+                        <td style="vertical-align: top;">
                             <p><span class="bol">Address:</span></p>
                         </td>
                         <td>
