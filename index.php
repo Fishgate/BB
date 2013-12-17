@@ -28,7 +28,7 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>rooibos frutea</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>rooibos Frutea<sup>&reg;</sup></b></a></li>
                     <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
                     <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
                 </ul>
@@ -48,7 +48,7 @@
                 <div class="feature">
                     <img class="response" src="img/image_bike_small.png" alt="vintage bicycle" />
                 </div>
-                <p>Like the delicious, authentic Rooibos Frutea we produce, bicycles also promote healthy living with a sense of fun. Add to that some vintage flair, and you have an amazing<br/>prize valued at R4000...<br/><br/></p>
+                <p>Like the delicious, authentic Rooibos Frutea<sup>&reg;</sup> we produce, bicycles also promote healthy living with a sense of fun. Add to that some vintage flair, and you have an amazing<br/>prize valued at R4000...<br/><br/></p>
                 <a class="enter" href="win_a_vintage_bicycle.php">
                     <img class="btn_desktop" src="img/enter.jpg" alt="Enter Now" />
                 </a>
@@ -59,11 +59,11 @@
             <!--  -->
             <div class="sections3 mid left clearfix">
                 <span class="h1">what is</span>
-                <div class="h2">rooibos<br />frutea</div>
+                <div class="h2">rooibos<br />Frutea<sup>&reg;</sup></div>
                 <div class="feature">
                     <img class="response" src="img/image_bottles_small.png" alt="rooibos frutea" />
                 </div>
-                <p>A freshly brewed Rooibos tea blended with 100% unsweetened fruit juices and pulps. We actually trademarked the name FRUTEA because this explains exactly what it is -<br/>a superb blend of fruit and tea.<br/><br/></p>
+                <p>A freshly brewed Rooibos tea blended with 100% unsweetened fruit juices and pulps. We actually trademarked the name Frutea<sup>&reg;</sup> because this explains exactly what it is -<br/>a superb blend of fruit and tea.<br/><br/></p>
                 <a class="enter" href="what_is_rooibos_frutea.php">
                     <img class="btn_desktop" src="img/readmore.jpg" alt="read more" />
                 </a>

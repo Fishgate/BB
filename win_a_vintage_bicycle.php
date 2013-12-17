@@ -35,7 +35,7 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li class='current-menu-item '><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Frutea</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Frutea<sup>&reg;</sup></b></a></li>
                     <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
                     <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
                 </ul>
@@ -50,33 +50,33 @@
                 <h1><span class="reg">Win a</span> <span class="bol">Vintage Bicycle worth R4000</span></h1>
                 <p>Enter now for a chance to win by simply completing the fields in the form located to the right. And remember to tell your friends so they can enter too.</p>
                 <h2><span class="reg">Why a</span> <span class="bol green">Vintage Bicycle</span></h2>
-                <p>Like the delicious, authentic Rooibos Frutea we produce, bicycles also promote healthy living with a sense of fun. Add to that some vintage flair, and you have an amazing prize valued at R4000 that exudes memories of the quality and goodness of yesteryear’s products – just like Rooibos Frutea does. In our minds, it’s the perfect prize to associate with our 100% Fruity product.</p>
-                <p>Thank you to Pedalworx for co-sponsoring the vintage bicycle for this competition. Together we will be giving one Rooibos Frutea drinker hours of riding pleasure.</p>
+                <p>Like the delicious, authentic Rooibos Frutea<sup>&reg;</sup> we produce, bicycles also promote healthy living with a sense of fun. Add to that some vintage flair, and you have an amazing prize valued at R4000 that exudes memories of the quality and goodness of yesteryear’s products – just like Rooibos Frutea<sup>&reg;</sup> does. In our minds, it’s the perfect prize to associate with our 100% Fruity product.</p>
+                <p>Thank you to Pedalworx for co-sponsoring the vintage bicycle for this competition. Together we will be giving one Rooibos Frutea<sup>&reg;</sup> drinker hours of riding pleasure.</p>
             </div>
             <!--  -->
             <div class="sections2_divider left">&nbsp;</div>
             <!--  -->
             <div class="sections2 left clearfix">
                 <div id="myModal" class="reveal-modal">
-                    <h1>BROTHERS BEVERAGES<br />WIN A SCHWINN S1 CRUISER<br />WITH ROOIBOS FRUTEA</h1>
+                    <h1>BROTHERS BEVERAGES<br />WIN A SCHWINN S1 CRUISER<br />WITH ROOIBOS FRUTEA<sup>&reg;</sup></h1>
                     <ol>
-                        <li>WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA<br />competition is organised by Brothers Beverages, owners of the brand Rooibos Frutea, and is open to South African and Namibian residents, except directors and employees of Brothers Beverages and their families, advertising agency staff or consultants of Brothers Beverages and the immediate family members of aforesaid persons (including, but not limited to, spouses, life partners, parents, children, brothers and sisters).</li>
+                        <li>WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA<sup>&reg;</sup><br />competition is organised by Brothers Beverages, owners of the brand Rooibos Frutea<sup>&reg;</sup>, and is open to South African and Namibian residents, except directors and employees of Brothers Beverages and their families, advertising agency staff or consultants of Brothers Beverages and the immediate family members of aforesaid persons (including, but not limited to, spouses, life partners, parents, children, brothers and sisters).</li>
                         <li>These rules may be amended by notification at any time during the Competition, and will be interpreted by Promoter only. Participation by all entrants ("Participants") constitutes acceptance of these rules.</li>
-                        <li>WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA competition commences on 1 December 2013 and closes on 4 May 2014.</li>
+                        <li>WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA<sup>&reg;</sup> competition commences on 1 December 2013 and closes on 4 May 2014.</li>
                         <li>To qualify for the prize the consumer must enter the competition on <a href="http://www.frutea.co.za" target="_blank">www.frutea.co.za</a></li>
                         <li>Each cellphone number may only be entered once.</li>
                         <li>The winner will be selected from all valid entries received.</li>
                         <li>The prize draw will take place a week after the competition closes and the winner will be notified by telephone and announced on the website.</li>
                         <li>If a winner is indebted to Brothers Beverages in any way, he or she will be disqualified from receiving the prize.</li>
-                        <li>By entering WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA all entrants agree to be bound by the terms and conditions of the competition, which will be interpreted by Brothers Beverages.</li>
+                        <li>By entering WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA<sup>&reg;</sup> all entrants agree to be bound by the terms and conditions of the competition, which will be interpreted by Brothers Beverages.</li>
                         <li>The decision by the competition judges regarding all matters relating to the competition, including any dispute, is final and binding and no correspondence will be entered into.</li>
                         <li>If a person is under 18 they must be duly assisted by a parent or legal guardian in entering the competition and in using the prize.</li>
                         <li>The prize is not transferable or redeemable for cash or other alternatives and may not be given, assigned or sold to another person.</li>
                         <li>Failure to claim a Prize in the time or manner specified for the relevant Competition will make any claim invalid.</li>
-                        <li>The winner will be required to sign a consent that he or she will allow Brothers Beverages or their representatives, to photograph him or her for promotional purposes related to the WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA competition without payment or additional compensation.</li>
+                        <li>The winner will be required to sign a consent that he or she will allow Brothers Beverages or their representatives, to photograph him or her for promotional purposes related to the WIN A SCHWINN S1 CRUISER WITH ROOIBOS FRUTEA<sup>&reg;</sup> competition without payment or additional compensation.</li>
                         <li>If in the event that the competition is terminated, whether by the DTI, or and other entity, all entrants will waive any rights which they may have against Brothers Beverages.</li>
                         <li>Winner shall be required to indemnify Brothers Beverages for any damage or loss they may suffer from winning the prize.</li>
-                        <li>These Terms and Conditions are available on the <a href="http://www.frutea.co.za" target="_blank">www.frutea.co.za</a> website </li>
+                        <li>These Terms and Conditions are available on the <a href="http://www.Frutea.co.za" target="_blank">www.Frutea<sup>&reg;</sup>.co.za</a> website </li>
                     </ol>
                     <a class="close-reveal-modal">&#215;</a>
                </div>
