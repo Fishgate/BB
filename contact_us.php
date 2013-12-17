@@ -35,9 +35,9 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Frutea<sup>&reg;</sup></b></a></li>
-                    <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
-                    <li class="menu-mid current-menu-item"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">More about <br /><b>Rooibos Frutea<sup>&reg;</sup></b></a></li>
+                    <li class="menu-mid"><a href="about_brothers_beverages.php">History of <br /><b>brothers beverages</b></a></li>
+                    <li class="menu-mid current-menu-item"><a href="contact_us.php">get in touch <br /><b>with us</b></a></li>
                 </ul>
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
@@ -81,29 +81,30 @@
                 <div class="contact_emp">
                     <h3><span class="bol">Marinda Hambrecht</span> - <span class="reg">Managing Director</span></h3>
                     <p>
+                        Brothers Beverages cc<br />
                         <span class="bol">Tel:</span> 021 851 0771<br />
-                        <span class="bol">Cell:</span> 082 261 0612<br />
-                        <span class="bol">Email:</span> <a href="mailto:marinda@brothersbeverages.co.za">marinda@brothersbeverages.co.za</a>
+                        <!--<span class="bol">Cell:</span> 082 261 0612<br />-->
+                        <!--<span class="bol">Email:</span> <a href="mailto:marinda@brothersbeverages.co.za">marinda@brothersbeverages.co.za</a>-->
                     </p>
                 </div>
                 
-                <div class="contact_emp_alt">
+                <!--<div class="contact_emp_alt">
                     <h3><span class="bol">Konrad Hambrecht</span> - <span class="reg">Chief Executive Officer</span></h3>
                     <p>
                         <span class="bol">Tel:</span> 021 851 0771<br />
                         <span class="bol">Cell:</span> 082 467 5933<br />
                         <span class="bol">Email:</span> <a href="mailto:konrad@brothersbeverages.co.za">konrad@brothersbeverages.co.za</a>
                     </p>
-                </div>
+                </div>-->
                 
-                <div class="contact_emp">
+                <!--<div class="contact_emp">
                     <h3><span class="bol">Steve Kluckow</span> - <span class="reg">Manager: Production And Distribution</span></h3>
                     <p>
                         <span class="bol">Tel:</span> 021 851 0771<br />
                         <span class="bol">Cell:</span> 076 865 2988<br />
                         <span class="bol">Email:</span> <a href="mailto:manager@brothersbeverages.co.za">manager@brothersbeverages.co.za</a>
                     </p>
-                </div>
+                </div>-->
             </div>
             <!--  -->
             <div class="sections2_divider left">&nbsp;</div>

@@ -28,9 +28,9 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>rooibos Frutea<sup>&reg;</sup></b></a></li>
-                    <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
-                    <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">More about <br /><b><strong>Rooibos Frutea</strong><sup>&reg;</sup></b></a></li>
+                    <li class="menu-mid"><a href="about_brothers_beverages.php">History of <br /><b>brothers beverages</b></a></li>
+                    <li class="menu-mid"><a href="contact_us.php">get in touch <br /><b>with us</b></a></li>
                 </ul>
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
@@ -48,7 +48,7 @@
                 <div class="feature">
                     <img class="response" src="img/image_bike_small.png" alt="vintage bicycle" />
                 </div>
-                <p>Like the delicious, authentic Rooibos Frutea<sup>&reg;</sup> we produce, bicycles also promote healthy living with a sense of fun. Add to that some vintage flair, and you have an amazing<br/>prize valued at R4000...<br/><br/></p>
+                <p>Like the delicious, authentic <strong>Rooibos Frutea</strong><sup>&reg;</sup> we produce, bicycles also promote healthy living with a sense of fun. Add to that some vintage flair, and you have an amazing<br/>prize valued at R4000...<br/><br/></p>
                 <a class="enter" href="win_a_vintage_bicycle.php">
                     <img class="btn_desktop" src="img/enter.jpg" alt="Enter Now" />
                 </a>
@@ -78,8 +78,8 @@
                 <div class="feature">
                     <img class="response" src="img/image_bb_small.png" alt="vintage bicycle" />
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum ante non mauris aliquam venenatis. Maecenas nec vestibulum justo. Nullam rhoncus vestibulum mi, nec porttitor mauris iaculis non. Quisque luctus ultrices.</p>
-                <a class="enter" href="what_is_rooibos_frutea.php">
+                <p>In 1996, Konrad Hambrecht became very interested in Rooibos tea with its health benefits and potential for numerous applications. Out of his dislike for fizzy drinks and artificial products, a unique brew of Rooibos/fruit juice mixes was born, namely <strong>Rooibos Frutea</strong><sup>&reg;</sup>.</p>
+                <a class="enter" href="about_brothers_beverages.php">
                     <img class="btn_desktop" src="img/readmore.jpg" alt="read more" />
                 </a>
                 <a href="what_is_rooibos_frutea.php" class="btn_mobi">

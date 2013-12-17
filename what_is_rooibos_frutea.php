@@ -28,9 +28,9 @@
             <nav class="nav">
                 <ul class="clearfix toresponsive">
                     <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="current-menu-item menu-mid"><a href="what_is_rooibos_frutea.php">what is <br /><b>Rooibos Frutea<sup>&reg;</sup></b></a></li>
-                    <li class="menu-mid"><a href="www.google.com">more about <br /><b>brothers beverages</b></a></li>
-                    <li class="menu-mid"><a href="contact_us.php">get intouch <br /><b>with us</b></a></li>
+                    <li class="current-menu-item menu-mid"><a href="what_is_rooibos_frutea.php">More about <br /><b>Rooibos Frutea<sup>&reg;</sup></b></a></li>
+                    <li class="menu-mid"><a href="about_brothers_beverages.php">History of <br /><b>brothers beverages</b></a></li>
+                    <li class="menu-mid"><a href="contact_us.php">get in touch <br /><b>with us</b></a></li>
                 </ul>
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
@@ -39,30 +39,29 @@
             <!--</div>-->
             <!-- ////////////////////// 2 SECTIONS \\\\\\\\\\\\\\\\\\\-->
             <p>&nbsp;</p>
-            <h1><span class="reg">What is</span> <span class="bol">Rooibos Frutea<sup>&reg;</sup></span></h1>
+            <h1><span class="reg">What is</span> <span class="bol"><strong>Rooibos Frutea</strong><sup>&reg;</sup></span></h1>
             
             <div class="sections2 left clearfix">
-                <p>A freshly brewed Rooibos tea blended with 100% unsweetened fruit juices and pulps. We actually trademarked the name Frutea<sup>&reg;</sup> because this explains exactly what it is - a superb blend of fruit and tea.</p>
-                <h2><span class="reg">How did</span> <span class="bol green">Rooibos Frutea<sup>&reg;</sup></span> <span class="reg">start</span></h2>
+                <p> A freshly brewed Rooibos tea blended with 100% unsweetened fruit juices and pulps. Frutea<sup>&reg;</sup> is exactly what it says – a fruity tea – and can be enjoyed hot or cold.</p>
+                <h2><span class="reg">How did</span> <span class="bol green"><strong>Rooibos Frutea</strong><sup>&reg;</sup></span> <span class="reg">start</span></h2>
                 <p>Even while my husband, Konrad, was courting me, he always brought along with him a brew of Rooibos and fruit juice that he made. His dream has always been to bring a healthy beverage into the market - especially for children. Konrad doesn't like fizzy drinks or any artificial aftertastes, so we started making our own Rooibos iced teas at home.</p>
                 <p>Konrad spent many hours and basically years on a business plan with a state of the art production line. His dream was too big for me - it involved millions of rands.</p>
                 <p>I was willing to give it a go starting small. So I began the venture by brewing pots of Rooibos tea in my kitchen ñ mixing it with 100% fruit concentrates and pulps. We developed a few flavours. We had a lots of tasting sessions with close friends, and did some research together with the Department of Consumer Science where they did a taste profile and compared to the ideal iced tea, we did very well. I joined the Slow Food Market every Saturday in Stellenbosch and we saw interest in our product growing slowly.</p>
-                <p>I would say we launched our flagship - ROOIBOS FRUTEA<sup>&reg;</sup> at Kamersvol Geskenke November 2008. This was a big test to see if more people than my close family and friends also loved our product. Up to this time I did it as a hobby and still had a full time job. The result was very positive and we signed up our first restaurant.</p>
+                <p>I would say we launched our flagship - <strong>ROOIBOS FRUTEA</strong><sup>&reg;</sup> at Kamersvol Geskenke November 2008. This was a big test to see if more people than my close family and friends also loved our product. Up to this time I did it as a hobby and still had a full time job. The result was very positive and we signed up our first restaurant.</p>
                 <p>Another major leap of faith was attending the Good Food and Wine Show in May 2009. With having only one outlet and no distribution channel, I really just wanted to test the wider public's reaction to our product. There was great interest from the public and we were approached by a few big buyers. We signed up our second client (this time an upmarket chain store) - Melissa's Food Shop.</p>
             </div>
             <!--  -->
             <div class="sections2_divider left">&nbsp;</div>
             <!--  -->
             <div class="sections2 left clearfix">
-                <h2><span class="reg">Manufacturing process of</span> <span class="bol green">Rooibos Frutea<sup>&reg;</sup></span></h2>
+                <h2><span class="reg">Manufacturing process of</span> <span class="bol green"><strong>Rooibos Frutea</strong><sup>&reg;</sup></span></h2>
                 <p>Everything is done manually. We have big stainless steel brewing and mixing pots. We have 4 full-time workers in the production team and they manually fill, cap and label all the bottles.</p>
                 <p>We are looking at ways/semi-automated equipment to make the production easier on the workers. With just a few extra pieces of equipment we can increase our production volumes and we are constantly trying to follow the JIT principle - to add on what we need Just In Time.</p>
-                <h2><span class="reg">Unique selling points of</span> <span class="bol green">Rooibos Fruitea</span></h2>
-                
+                <h2><span class="reg">Unique features/characteristics of</span> <span class="bol green">Rooibos Fruitea<sup>&reg;</sup></span></h2>
                 <table>
                     <tr>
                         <td><span class="number">1</span></td>
-                        <td><p>We boil loose Rooibos tea leaves and this gives us a product that is naturally high in anti-oxidants and has no caffeine.</p></td>
+                        <td><p>Freshly brewed Rooibos (No tea extracts/powders are used)</p></td>
                     </tr>
                     <tr>
                         <td colspan="2">
@@ -71,7 +70,7 @@
                     </tr>
                     <tr>
                         <td><span class="number">2</span></td>
-                        <td><p>ROOIBOS FRUTEA<sup>&reg;</sup> contains NO carbon-dioxide and NO sugarcane - the sweetness and taste comes from the 100% unsweetened fruit juices and pulps.</p></td>
+                        <td><p>Caffeine free</p></td>
                     </tr>
                     <tr>
                         <td colspan="2">
@@ -80,7 +79,39 @@
                     </tr>
                     <tr>
                         <td><span class="number">3</span></td>
-                        <td><p>We all know that Rooibos has excellent qualities, but so many people do not like it because they see it as medicine. Our aim is to make Rooibos taste good.</p></td>
+                        <td><p>No Sugarcane added (unsweetened)</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span class="number">4</span></td>
+                        <td><p>Infused with herbs and spices to add to the health benefits</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span class="number">5</span></td>
+                        <td><p>Only 100% fruit concentrates/pulps are used</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span class="number">6</span></td>
+                        <td><p>Rooibos is naturally high in anti-oxidants</p></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr />
+                        </td>
                     </tr>
                 </table>
                 
