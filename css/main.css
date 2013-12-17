@@ -305,12 +305,12 @@ background-position: 0 -13px;
     background: #88a936;
     color: #fff;
     font-family: 'bold', sans-serif;
-    font-size: 18px;
-    width: 50px;
-    height: 50px;
+    font-size: 16px;
+    width: 40px;
+    height: 40px;
     text-align: center;
     display: block;
-    padding-top: 12px;
+    padding-top: 9px;
     
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
