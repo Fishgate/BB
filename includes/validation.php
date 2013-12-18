@@ -48,33 +48,52 @@ try {
 
 if(
     validate($_POST['Name']) &&
-    validate($_POST['Surname'])&&
-    validate($_POST['School'])&&
-    validateNum($_POST['Grade'])&&
-    validate($_POST['Course'])&&
-    validateNum($_POST['Cell'])&&
-    validate($_POST['Email'])&&
-    validateTrick($_POST['Trick'])
-    
+    validateEmail($_POST['Email']) &&
+    validateNum($_POST['Cellphone_Number']) &&
+    validate($_POST['Date_of_birth']) &&
+    validate($_POST['What_is_your_favourite_flavour?']) &&
+    validate($_POST['Where_did_you_buy_your_Rooibos_Frutea?']) &&
+    validate($_POST['Name_one_unique_feature_of_Rooibos_Frutea'])
 ){
     try {
-        $log_form = $conn->prepare('INSERT INTO '.DB_LOGS_TBL.' (name, surname, school, grade, course_interest, cell_number, email, hear_about_us, message, date, unix) VALUES (:name, :surname, :school, :grade, :course_interest, :cell_number, :email, :hear_about_us, :message, :date, :unix)');
+        $log_form = $conn->prepare('
+            INSERT INTO '.SCHWINN_COMP_LOGS_TBL.' (
+                Name, 
+                Email, 
+                Cellphone_Number, 
+                Date_of_birth, 
+                What_is_your_favourite_flavour, 
+                Where_did_you_buy_your_Rooibos_Frutea, 
+                Name_one_unique_feature_of_Rooibos_Frutea, 
+                Date, 
+                Unix
+            ) VALUES (
+                :Name, 
+                :Email, 
+                :Cellphone_Number, 
+                :Date_of_birth, 
+                :What_is_your_favourite_flavour, 
+                :Where_did_you_buy_your_Rooibos_Frutea, 
+                :Name_one_unique_feature_of_Rooibos_Frutea, 
+                :Date, 
+                :Unix
+            )
+        ');
 
-        $log_form->bindValue(':name',               $_POST['Name']); 
-        $log_form->bindValue(':surname',            $_POST['Surname']);
-        $log_form->bindValue(':school',             $_POST['School']);
-        $log_form->bindValue(':grade',              $_POST['Grade']);
-        $log_form->bindValue(':course_interest',    $_POST['Course']);
-        $log_form->bindValue(':cell_number',        $_POST['Cell']);
-        $log_form->bindValue(':email',              $_POST['Email']);
-        $log_form->bindValue(':hear_about_us',      implode(", ", $_POST['Heard']));
-        $log_form->bindValue(':message',            $_POST['Message']);
-        $log_form->bindValue(':date',               date('d-m-Y'));
-        $log_form->bindValue(':unix',               time());
-
+        $log_form->bindValue(':Name',                                       $_POST['Name']); 
+        $log_form->bindValue(':Email',                                      $_POST['Email']);
+        $log_form->bindValue(':Cellphone_Number',                           $_POST['Cellphone_Number']);
+        $log_form->bindValue(':Date_of_birth',                              $_POST['Date_of_birth']);
+        $log_form->bindValue(':What_is_your_favourite_flavour',             $_POST['What_is_your_favourite_flavour?']);
+        $log_form->bindValue(':Where_did_you_buy_your_Rooibos_Frutea',      $_POST['Where_did_you_buy_your_Rooibos_Frutea?']);
+        $log_form->bindValue(':Name_one_unique_feature_of_Rooibos_Frutea',  $_POST['Name_one_unique_feature_of_Rooibos_Frutea']);
+        $log_form->bindValue(':Date',                                       date('d-m-Y'));
+        $log_form->bindValue(':Unix',                                       time());
         
         if($log_form->execute()){
-            include('./class.phpmailer.php');
+            echo 'success';
+            
+            /*include('./class.phpmailer.php');
 
             $phpmailer = new PHPMailer();
 
@@ -84,21 +103,15 @@ if(
             $phpmailer->IsHTML(true);
 
             $phpmailer->AddAddress("tyrone@fishgate.co.za");
-            /*$phpmailer->AddAddress("jan@fishgate.co.za");
-            $phpmailer->AddAddress("renier@ilead.co.za");*/
+            $phpmailer->AddAddress("jan@fishgate.co.za");
+            $phpmailer->AddAddress("renier@ilead.co.za");
 
             $phpmailer->Subject = "Enquiry from Website";
 
             foreach($_POST as $key => $val) {
-                if ($key !== "Trick"){
-                    if(is_array($val)){
-                        $val = implode(", ", $val);
-                    }else{
-                        $val = $val;
-                    }
+                $key = str_replace("_", " ", $key);
 
-                    $body .= "$key: $val<br />";
-                }
+                @$body .= "$key: $val<br />";
             }
 
             $phpmailer->Body = $body;
@@ -107,11 +120,13 @@ if(
                 echo 'success';
             }else{
                 echo 'failed';
-            }
+            }*/
         }
+        
     } catch (PDOException $ex) {
         echo $ex->getMessage();
     }
+    
 }else{
     die('Please fill in all the required form fields correctly before submitting.');
 }

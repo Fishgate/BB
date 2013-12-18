@@ -25,7 +25,7 @@ function validate (target) {
         change: function () { $(this).removeAttr("style"); }
     });
 
-    if ($(target).val() !== "") {
+    if ($(target).val() !== "" && $(target).data("placeholder") !== $(target).val()) {
         return true;
     }else{
         $(target).css({background: error_bg, color: error_fg});

@@ -31,6 +31,11 @@ $('.toresponsive').ReSmenu({
 
 //========== FORM STUFF
 if($(".formholder").length > 0){
+    $('#datetimepicker').datetimepicker({
+	timepicker:false,
+	format:'d/m/Y'
+    });
+    
     $("#cell").bind("keydown", disable_alpha_chars);
     
     $("input, textarea").bind({
@@ -60,31 +65,33 @@ if($(".formholder").length > 0){
         }
     });
     
-    $("#submit_btn").click(function(e){
+    $("#submit_btn").click(function(e){        
         valName =       validate("#name");
         valEmail =      validate_email("#email");
         valCell =       validate("#cell");
+        valBday =       validate("#datetimepicker");
         valFlavour =    validate("#flavour");
         valWhere =      validate("#where");
         valFeature =    validate("#feature");
         valTrick =      validate_trick("#trick");
         
-        if(!valName || !valSurname || !valSchool || !valGrade || !valCourse || !valCell || !valEmail || !valTrick){
+        if(!valName || !valEmail || !valCell || !valBday || !valFlavour || !valWhere || !valFeature || !valTrick){
             alert('Please fill in the required fields.');
         }else{
             $.ajax({
-                url: 'classes/validation.php',
+                url: 'includes/validation.php',
                 type: 'post',
                 data: $('#form').serialize(),
                 success: function(result){
                     var res = result.trim();
                     
-                    /*if(res == 'success'){
+                    /*
+                    if(res == 'success'){
                         window.location = 'thank-you.php';
                     }else{
                         alert(res);
-                    }*/
-                    
+                    }
+                    */
                     console.log(res);
                 },  
                 error: function () {
@@ -93,7 +100,7 @@ if($(".formholder").length > 0){
            });
        }
        
-        e.preventDefault();
+       e.preventDefault();
     });
     
 }

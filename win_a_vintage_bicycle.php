@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" type="text/css" href="css/jquery.datetimepicker.css"/>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         
         <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.min.js"></script>
@@ -82,16 +83,17 @@
                </div>
                 <div class='formholder'>
                     <form id='form'>
-                        <input data-placeholder="Name" type="text" id="name" value="Name" />
-                        <input data-placeholder="Email" type='email' id="email" value="Email" />
-                        <input data-placeholder="Cellphone Number" type="tel" id="cell" value="Cellphone Number" />
-                        <input data-placeholder="What is your favourite flavour?" type="text" id="flavour" value="What is your favourite flavour?" />
-                        <input data-placeholder="Where did you buy your Rooibos Frutea?" type="text" id="where" value="Where did you buy your Rooibos Frutea?" />
-                        <input data-placeholder="Name one unique feature of Rooibos Frutea" type="text" id="feature" value="Name one unique feature of Rooibos Frutea" />
+                        <input data-placeholder="Name" type="text" id="name" value="Name" name="Name" />
+                        <input data-placeholder="Email" type='text' id="email" value="Email" name="Email" />
+                        <input data-placeholder="Cellphone Number" type="tel" id="cell" value="Cellphone Number" name="Cellphone Number" />
+                        <input data-placeholder="Date of birth" type="text" id="datetimepicker" value="Date of birth" name="Date of birth">
+                        <input data-placeholder="What is your favourite flavour?" type="text" id="flavour" value="What is your favourite flavour?" name="What is your favourite flavour?" />
+                        <input data-placeholder="Where did you buy your Rooibos Frutea?" type="text" id="where" value="Where did you buy your Rooibos Frutea?" name="Where did you buy your Rooibos Frutea?" />
+                        <input data-placeholder="Name one unique feature of Rooibos Frutea" type="text" id="feature" value="Name one unique feature of Rooibos Frutea" name="Name one unique feature of Rooibos Frutea" />
                         <input type="hidden" id="trick" />
                         <input type="submit" id="submit_btn" value="SUBMIT" />
                     </form>
-                    <p class='terms'>Please read the <a href="#" data-reveal-id="myModal">Terms and Conditions</a> for this competition</p>
+                    <p class='terms'>Please read the <a style="cursor: pointer;" data-reveal-id="myModal">Terms and Conditions</a> for this competition</p>
                 </div>
             </div>
         </div>

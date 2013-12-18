@@ -4,6 +4,7 @@
         <script src="js/jquery.slides.js"></script>
         <script src="js/jquery.resmenu.min.js"></script>
         <script src="js/validation.js"></script>
+        <script src="js/jquery.datetimepicker.js"></script>
         <script src="js/main.js"></script>
        
 
