@@ -58,7 +58,7 @@
             </div>
             <!--  -->
             <div class="sections3 mid left clearfix">
-                <span class="h1">what is</span>
+                <span class="h1">more about</span>
                 <div class="h2">rooibos<br />Frutea<sup>&reg;</sup></div>
                 <div class="feature">
                     <img class="response" src="img/image_bottles_small.png" alt="rooibos frutea" />
@@ -73,7 +73,7 @@
             </div>
             <!--  -->
             <div class="sections3 left clearfix">
-                <span class="h1">more about</span>
+                <span class="h1">history of</span>
                 <div class="h2">brothers<br />beverages</div>
                 <div class="feature">
                     <img class="response" src="img/image_bb_small.png" alt="vintage bicycle" />
