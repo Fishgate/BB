@@ -82,16 +82,16 @@
                </div>
                 <div class='formholder'>
                     <form id='form'>
-                        <input type='text' id='name' value='Name' />
-                        <input type='email' id='email' value='Email' />
-                        <input type='tel' id='cell' value='Cellphone Number' />
-                        <input type='text' id='flavour' value='What is your favourite flavour?' />
-                        <input type='text' id='where' value='Where did you buy your Rooibos Frutea?' />
-                        <input type='text' id='feature' value='Name one unique feature of Rooibos Frutea' />
-                        <input type='submit' id='submit_btn' value='SUBMIT' />
+                        <input data-placeholder="Name" type="text" id="name" value="Name" />
+                        <input data-placeholder="Email" type='email' id="email" value="Email" />
+                        <input data-placeholder="Cellphone Number" type="tel" id="cell" value="Cellphone Number" />
+                        <input data-placeholder="What is your favourite flavour?" type="text" id="flavour" value="What is your favourite flavour?" />
+                        <input data-placeholder="Where did you buy your Rooibos Frutea?" type="text" id="where" value="Where did you buy your Rooibos Frutea?" />
+                        <input data-placeholder="Name one unique feature of Rooibos Frutea" type="text" id="feature" value="Name one unique feature of Rooibos Frutea" />
+                        <input type="hidden" id="trick" />
+                        <input type="submit" id="submit_btn" value="SUBMIT" />
                     </form>
                     <p class='terms'>Please read the <a href="#" data-reveal-id="myModal">Terms and Conditions</a> for this competition</p>
-                    	
                 </div>
             </div>
         </div>
