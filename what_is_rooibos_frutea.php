@@ -50,7 +50,7 @@
                 <p>I would say we launched our flagship - <strong>ROOIBOS FRUTEA</strong><sup>&reg;</sup> at Kamersvol Geskenke November 2008. This was a big test to see if more people than my close family and friends also loved our product. Up to this time I did it as a hobby and still had a full time job. The result was very positive and we signed up our first restaurant.</p>
                 <p>Another major leap of faith was attending the Good Food and Wine Show in May 2009. With having only one outlet and no distribution channel, I really just wanted to test the wider public's reaction to our product. There was great interest from the public and we were approached by a few big buyers. We signed up our second client (this time an upmarket chain store) - Melissa's Food Shop.</p>
             -->
-                <h2><span class="reg">Unique features/characteristics of</span> <span class="bol green">Rooibos Frutea<sup>&reg;</sup></span></h2>
+                <h2><span class="reg">Unique features of</span> <span class="bol green">Rooibos Frutea<sup>&reg;</sup></span></h2>
                 <table>
                     <tr>
                         <td><span class="number">1</span></td>

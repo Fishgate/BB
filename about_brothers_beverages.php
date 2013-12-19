@@ -52,7 +52,7 @@
             <div class="sections2_divider left">&nbsp;</div>
             <!--  -->
             <div class="sections2 left clearfix">
-                <p>In October 2011 they bought a 100% fruit juice brand – <strong>Helderberg Juice</strong>. It made perfect business sense to take a flanking brand on board. <strong>Helderberg Juice</strong> has been around for over 10 years and is well known for its outstanding taste and excellent quality. The two best flavours are Cranberry- Cherry and Orange juice with cells.</p>
+                <p>In October 2011 they bought a 100% fruit juice brand – <strong>Helderberg Juice</strong><sup>&reg;</sup>. It made perfect business sense to take a flanking brand on board. <strong>Helderberg Juice</strong><sup>&reg;</sup> has been around for over 10 years and is well known for its outstanding taste and excellent quality. The two best flavours are Cranberry- Cherry and Orange juice with cells.</p>
                 <p>The quality of the products is maintained with a well-developed system that is continually monitored and controlled by a dedicated team.</p>
                 <p>Brothers Beverages is currently managed by Marinda with the help of an experienced factory production manager, a loyal administrator and a small enthusiastic production team.</p>
             </div>
