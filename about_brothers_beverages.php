@@ -35,7 +35,7 @@
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
             <!--<div id="slides">-->
-                <img class="response feature_graphic" src="img/bb_slide_4.jpg">
+                <img class="response feature_graphic" src="img/bb_slide_7.jpg">
             <!--</div>-->
             <!-- ////////////////////// 2 SECTIONS \\\\\\\\\\\\\\\\\\\-->
             <p>&nbsp;</p>
