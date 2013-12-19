@@ -77,16 +77,16 @@
                 
                 <hr />
                 
-                <h2>Employee contact details:</h2>
+                <!--<h2>Employee contact details:</h2>
                 <div class="contact_emp">
                     <h3><span class="bol">Marinda Hambrecht</span> - <span class="reg">Managing Director</span></h3>
                     <p>
                         Brothers Beverages cc<br />
                         <span class="bol">Tel:</span> 021 851 0771<br />
-                        <!--<span class="bol">Cell:</span> 082 261 0612<br />-->
-                        <!--<span class="bol">Email:</span> <a href="mailto:marinda@brothersbeverages.co.za">marinda@brothersbeverages.co.za</a>-->
+                        <span class="bol">Cell:</span> 082 261 0612<br />
+                        <span class="bol">Email:</span> <a href="mailto:marinda@brothersbeverages.co.za">marinda@brothersbeverages.co.za</a>
                     </p>
-                </div>
+                </div>-->
                 
                 <!--<div class="contact_emp_alt">
                     <h3><span class="bol">Konrad Hambrecht</span> - <span class="reg">Chief Executive Officer</span></h3>
