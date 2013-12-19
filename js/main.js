@@ -65,7 +65,10 @@ if($(".formholder").length > 0){
         }
     });
     
-    $("#submit_btn").click(function(e){        
+    $("#submit_btn").click(function(e){
+        $(this).css({background: 'grey'});
+        $(this).attr({disabled: 'disabled'});
+        
         valName =       validate("#name");
         valEmail =      validate_email("#email");
         valCell =       validate("#cell");
@@ -76,6 +79,7 @@ if($(".formholder").length > 0){
         valTrick =      validate_trick("#trick");
         
         if(!valName || !valEmail || !valCell || !valBday || !valFlavour || !valWhere || !valFeature || !valTrick){
+            $("#submit_btn").removeAttr('disabled style');
             alert('Please fill in the required fields.');
         }else{
             $.ajax({
@@ -83,15 +87,15 @@ if($(".formholder").length > 0){
                 type: 'post',
                 data: $('#form').serialize(),
                 success: function(result){
+                    $("#submit_btn").removeAttr('disabled style');
                     var res = result.trim();
                     
-                    /*
-                    if(res == 'success'){
-                        window.location = 'thank-you.php';
+                    if(res === 'success'){
+                        alert('Thank you.');
                     }else{
                         alert(res);
                     }
-                    */
+                    
                     console.log(res);
                 },  
                 error: function () {
