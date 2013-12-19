@@ -99,6 +99,7 @@ if($(".formholder").length > 0){
                     console.log(res);
                 },  
                 error: function () {
+                    $("#submit_btn").removeAttr('disabled style');
                     alert('There was an error submitting your request.');
                 }
            });

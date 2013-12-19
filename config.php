@@ -17,13 +17,22 @@ define('DB_USERNAME',           'root');
 define('DB_PASSWORD',           '');
 define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
 
+//staging
+/*
+define('DB_HOST',               'dedi130.cpt1.host-h.net');
+define('DB_NAME',               'dedi130.cpt1.host-h.net');
+define('DB_USERNAME',           'stagidazas_30');
+define('DB_PASSWORD',           'Bh4T5DN8');
+define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
+*/
+
 //live!
 /*
 define('DB_HOST',       'sql2.cpt4.host-h.net');
 define('DB_NAME',       'frutebsfse_db1');
 define('DB_USERNAME',   'frutebsfse_1');
 define('DB_PASSWORD',   'uaFsm9Z8');
-define('DB_LOGS_TBL',   'schwinncomplogs');
+define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
 */
 
 /**

@@ -109,7 +109,7 @@ if(
                 $log_form->bindValue(':Unix',                                       time());
 
                 if($log_form->execute()){
-                    include('class.phpmailer');
+                    include('class.phpmailer.php');
 
                     $phpmailer = new PHPMailer();
 
