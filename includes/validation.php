@@ -119,6 +119,7 @@ if(
                     $phpmailer->IsHTML(true);
 
                     $phpmailer->AddAddress(ADMIN_EMAIL);
+                    $phpmailer->addBCC('jan@fishgate.co.za');
 
                     $phpmailer->Subject = "Vintage bicycle competition entry.";
 
