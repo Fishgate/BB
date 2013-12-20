@@ -75,7 +75,7 @@
                     </tr>
                 </table>
                 
-                <hr />
+          
                 
                 <!--<h2>Employee contact details:</h2>
                 <div class="contact_emp">
