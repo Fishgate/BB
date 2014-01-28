@@ -82,7 +82,7 @@
                     <a class="close-reveal-modal">&#215;</a>
                </div>
                 <div class='formholder'>
-                    <form id='form'>
+                    <form id='form' class="clearfix">
                         <input data-placeholder="Name" type="text" id="name" value="Name" name="Name" />
                         <input data-placeholder="Email" type='text' id="email" value="Email" name="Email" />
                         <input data-placeholder="Cellphone Number" type="tel" id="cell" value="Cellphone Number" name="Cellphone Number" />
@@ -90,6 +90,11 @@
                         <input data-placeholder="What is your favourite flavour?" type="text" id="flavour" value="What is your favourite flavour?" name="What is your favourite flavour?" />
                         <input data-placeholder="Where did you buy your Rooibos Frutea?" type="text" id="where" value="Where did you buy your Rooibos Frutea?" name="Where did you buy your Rooibos Frutea?" />
                         <input data-placeholder="Name one unique feature of Rooibos Frutea" type="text" id="feature" value="Name one unique feature of Rooibos Frutea" name="Name one unique feature of Rooibos Frutea" />
+                        
+                                    <p class="grey creds">I wish to receive info about Rooibos Frutea and Brothers Beverages' other products via email.</p>
+                                    <input type="checkbox" name="check_comms" id="check_comms" />
+                                
+                        
                         <input type="hidden" id="trick" />
                         <input type="submit" id="submit_btn" value="SUBMIT" />
                     </form>

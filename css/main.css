@@ -148,6 +148,9 @@ h3{
     font-size: 13px;
     margin: 0;
 }
+.grey{
+    color: #999;
+}
 /*------------------- LOGO ------------*/
 .logo{
     width: 100%;
@@ -378,6 +381,9 @@ input[type="submit"]{
     margin-top: 20px;
     display: block;
 }
+input[type="checkbox"]{
+    width: auto;
+}
 .terms{
     text-align: center;
     color: #999;
@@ -385,7 +391,9 @@ input[type="submit"]{
 .terms a{
     color: #88a936;
 }
-
+.creds{
+    font-size: 10px;
+}
 
 
 /*---------------------------- CONTACT STUFF ------------------*/
