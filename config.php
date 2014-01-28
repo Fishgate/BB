@@ -11,11 +11,11 @@
  *
  */
 //localhost
-//define('DB_HOST',               'localhost');
-//define('DB_NAME',               'brobev');
-//define('DB_USERNAME',           'root');
-//define('DB_PASSWORD',           '');
-//define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
+define('DB_HOST',               'localhost');
+define('DB_NAME',               'brobev');
+define('DB_USERNAME',           'root');
+define('DB_PASSWORD',           '');
+define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
 
 //staging
 /*
@@ -27,13 +27,13 @@ define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
 */
 
 //live!
-
+/*
 define('DB_HOST',       'sql2.cpt4.host-h.net');
 define('DB_NAME',       'frutebsfse_db1');
 define('DB_USERNAME',   'frutebsfse_1');
 define('DB_PASSWORD',   'uaFsm9Z8');
 define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
-
+*/
 
 /**
  * Contact information of the admin, generaly used as "FROM" headers for email.
@@ -42,8 +42,8 @@ define('SCHWINN_COMP_LOGS_TBL', 'schwinncomplogs');
 define('ADMIN_EMAIL', 'competition@brothersbeverages.co.za');
 define('ADMIN_NAME', 'Brothers Beverages');
 
-define('ADMIN_EMAIL', 'tyrone@fishgate.co.za');
-define('ADMIN_NAME', 'Brothers Beverages');
+/*define('ADMIN_EMAIL', 'tyrone@fishgate.co.za');
+define('ADMIN_NAME', 'Brothers Beverages');*/
 
 /**
  * Set the project state here for error handling, saves the end user from 

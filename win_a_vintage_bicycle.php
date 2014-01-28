@@ -92,7 +92,7 @@
                         <input data-placeholder="Name one unique feature of Rooibos Frutea" type="text" id="feature" value="Name one unique feature of Rooibos Frutea" name="Name one unique feature of Rooibos Frutea" />
                         
                                     <p class="grey creds">I wish to receive info about Rooibos Frutea and Brothers Beverages' other products via email.</p>
-                                    <input type="checkbox" name="check_comms" id="check_comms" />
+                                    <input type="checkbox" name="I wish to receive info via email" id="check_comms" value="1" />
                                 
                         
                         <input type="hidden" id="trick" />

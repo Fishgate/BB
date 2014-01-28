@@ -82,7 +82,8 @@ if(
                         Date_of_birth, 
                         What_is_your_favourite_flavour, 
                         Where_did_you_buy_your_Rooibos_Frutea, 
-                        Name_one_unique_feature_of_Rooibos_Frutea, 
+                        Name_one_unique_feature_of_Rooibos_Frutea,
+                        I_wish_to_receive_info_via_email,
                         Date, 
                         Unix
                     ) VALUES (
@@ -92,12 +93,19 @@ if(
                         :Date_of_birth, 
                         :What_is_your_favourite_flavour, 
                         :Where_did_you_buy_your_Rooibos_Frutea, 
-                        :Name_one_unique_feature_of_Rooibos_Frutea, 
+                        :Name_one_unique_feature_of_Rooibos_Frutea,
+                        :I_wish_to_receive_info_via_email,
                         :Date, 
                         :Unix
                     )
                 ');
 
+                if(isset($_POST['I_wish_to_receive_info_via_email']) && !empty($_POST['I_wish_to_receive_info_via_email'])) {
+                    $info_via_email = 1;
+                }else{
+                    $info_via_email = 0;
+                }
+                
                 $log_form->bindValue(':Name',                                       $_POST['Name']); 
                 $log_form->bindValue(':Email',                                      $_POST['Email']);
                 $log_form->bindValue(':Cellphone_Number',                           $_POST['Cellphone_Number']);
@@ -105,6 +113,7 @@ if(
                 $log_form->bindValue(':What_is_your_favourite_flavour',             $_POST['What_is_your_favourite_flavour?']);
                 $log_form->bindValue(':Where_did_you_buy_your_Rooibos_Frutea',      $_POST['Where_did_you_buy_your_Rooibos_Frutea?']);
                 $log_form->bindValue(':Name_one_unique_feature_of_Rooibos_Frutea',  $_POST['Name_one_unique_feature_of_Rooibos_Frutea']);
+                $log_form->bindValue(':I_wish_to_receive_info_via_email',           $info_via_email);
                 $log_form->bindValue(':Date',                                       date('d-m-Y'));
                 $log_form->bindValue(':Unix',                                       time());
 
@@ -128,6 +137,12 @@ if(
 
                         @$body .= "$key: $val<br />";
                     }
+                    
+                    if($info_via_email) {
+                        $body .= "I wish to receive info via email: Yes";
+                    }else{
+                        $body .= "I wish to receive info via email: No";
+                    }
 
                     $phpmailer->Body = $body;
 
@@ -136,6 +151,7 @@ if(
                     }else{
                         echo 'There was an error';
                     }
+                    
                 }
 
             } catch (PDOException $ex) {
@@ -146,6 +162,7 @@ if(
     } catch (PDOException $ex) {
         echo $ex->getMessage();
     }
+     
 }else{
     die('Please fill in the required fields.');
 }

@@ -90,11 +90,11 @@ if($(".formholder").length > 0){
                     $("#submit_btn").removeAttr('disabled style');
                     var res = result.trim();
                     
-                    if(res === 'success'){
+                    /*if(res === 'success'){
                         alert('Thank you.');
                     }else{
                         alert(res);
-                    }
+                    }*/
                     
                     console.log(res);
                 },  
