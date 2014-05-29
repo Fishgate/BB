@@ -27,10 +27,10 @@
             <!-- ////////////////////// NAV \\\\\\\\\\\\\\\\\\\-->
             <nav class="nav">
                 <ul class="clearfix toresponsive">
-                    <li><a href="win_a_vintage_bicycle.php">win a <br /><b>vintage bicycle</b></a></li>
-                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">More about <br /><b><strong>Rooibos Frutea</strong><sup>&reg;</sup></b></a></li>
-                    <li class="current-menu-item menu-mid"><a href="about_brothers_beverages.php">History of <br /><b>brothers beverages</b></a></li>
-                    <li class="menu-mid"><a href="contact_us.php">get in touch <br /><b>with us</b></a></li>
+                    <li><a href="win_a_vintage_bicycle.php">And The <br /><b>Winner Is...</b></a></li>
+                    <li class="menu-mid"><a href="what_is_rooibos_frutea.php">More About <br /><b><strong>Rooibos Frutea</strong><sup>&reg;</sup></b></a></li>
+                    <li class="menu-mid"><a href="about_brothers_beverages.php">History of <br /><b>Brothers Beverages</b></a></li>
+                    <li class="menu-mid"><a href="contact_us.php">Get In Touch <br /><b>With Us</b></a></li>
                 </ul>
             </nav>
             <!-- ////////////////////// SLIDER \\\\\\\\\\\\\\\\\\\-->
